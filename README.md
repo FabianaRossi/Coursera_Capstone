@@ -4,4 +4,7 @@
 _________________________________________
 This repository contains files corresponding to the final assignment in the Data Science Professional Certificate:
 
-California_FR_
+
+California_FR_notebook
+California_FR_report
+California_FR_ppt
