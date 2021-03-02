@@ -8,7 +8,7 @@ _The objective of this project was to analyze California cities contamination an
 
 This repository contains files corresponding to the final assignment in the Data Science Professional Certificate:
 
-- California_FR_notebook.ipynb: scripts for uploading, processing and analyzing data
-- California_FR_report.pdf: report describing procedures, results and conclusions
-- California_FR_ppt.pptx: presentation including main results
+- **California_FR_notebook.ipynb:** scripts for uploading, processing and analyzing data
+- **California_FR_report.pdf:** report describing procedures, results and conclusions
+- **California_FR_ppt.pptx:** presentation including main results
   
